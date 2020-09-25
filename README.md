@@ -4,10 +4,10 @@ I'm Matheus Lopes, and I'm a Business owner at L3 Systems and I've been working 
 
 [![Linkedin: MatheusL3](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matheusl3)](https://www.linkedin.com/in/matheusl3/)
 [![Whatsapp: MatheusL3](https://img.shields.io/badge/-Whatsapp-41BF47?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/5562983321754)](https://wa.me/5562983321754)
+[![Instagram: MatheusL3](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matheus.l3)](https://www.instagram.com/matheus.l3)
 [![Facebook: MatheusL3](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/matheuslopescosta1)](https://www.facebook.com/matheuslopescosta1)
 [![GitHub: MatheusL3](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/MatheusL3)](https://github.com/MatheusL3)
 [![Gmail: MatheusL3](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.sosinformatica@gmail.com)](mailto:m.sosinformatica@gmail.com)
-[![Instagram: MatheusL3](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matheus.l3)](https://www.instagram.com/matheus.l3)
 
 
 ## 🤓 Technologies
