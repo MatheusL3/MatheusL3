@@ -1,18 +1,29 @@
-# MatheusL3
- 
-### Hi there
+### Hi there 🤝🏻
 
 I'm Matheus Lopes, and I'm a Business owner at L3 Systems and I've been working in tech since 2008. I am from Brazil and currently live in the city of Goiânia, state of Goiás.
 
 [![Linkedin: MatheusL3](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matheusl3)](https://www.linkedin.com/in/matheusl3/)
+[![Whatsapp: MatheusL3](https://img.shields.io/badge/-Whatsapp-41BF47?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/5562983321754)](https://wa.me/5562983321754)
+[![Facebook: MatheusL3](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/matheuslopescosta1)](https://www.facebook.com/matheuslopescosta1)
+[![GitHub: MatheusL3](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/MatheusL3)](https://github.com/MatheusL3)
+[![Gmail: MatheusL3](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.sosinformatica@gmail.com)](mailto:m.sosinformatica@gmail.com)
+[![Instagram: MatheusL3](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matheus.l3)](https://www.instagram.com/matheus.l3)
 
 
-## ⚡ Technologies
+## 🤓 Technologies
 
 These are some of the technologies and tools that I work with:
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=WebStorm)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Zend](https://img.shields.io/badge/-ZendFramework-68b604?style=flat-square&logo=Zend-framework&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=Android&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -21,22 +32,9 @@ These are some of the technologies and tools that I work with:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Sencha](https://img.shields.io/badge/-Sencha-86BC40?style=flat-square&logo=sencha&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
-![JFrog](https://img.shields.io/badge/-JFrog-41BF47?style=flat-square&logo=jfrog&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
