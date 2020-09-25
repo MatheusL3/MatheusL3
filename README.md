@@ -14,6 +14,7 @@ I'm Matheus Lopes, and I'm a Business owner at L3 Systems and I've been working 
 
 These are some of the technologies and tools that I work with:
 
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=WebStorm)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
