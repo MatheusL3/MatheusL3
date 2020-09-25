@@ -25,15 +25,12 @@ These are some of the technologies and tools that I work with:
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=fff)
 ![Filezilla](https://img.shields.io/badge/-Filezilla-BF0000?style=flat-square&logo=Filezilla&logoColor=fff)
 ![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=Zoom&logoColor=fff)
-
 ![Cpanel](https://img.shields.io/badge/-Cpanel-FF6C2C?style=flat-square&logo=Cpanel&logoColor=fff)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=WordPress)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=Android&logoColor=white)
@@ -45,15 +42,14 @@ These are some of the technologies and tools that I work with:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=WordPress)
 
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
-
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=WebStorm)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white)
